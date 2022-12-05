@@ -1,3 +1,9 @@
+This is a basic SPA built using React.
+I have the top headlines being fetched from the News API
+and my three blog posts with the title as a link to the full post.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
